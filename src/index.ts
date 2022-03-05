@@ -1,5 +1,5 @@
 import React from "react";
 
-type Import = React.FunctionComponent<{ user: string; age: number }>;
+export type Imporant = React.FunctionComponent<{ user: string; age: number }>;
 
 export default true;
